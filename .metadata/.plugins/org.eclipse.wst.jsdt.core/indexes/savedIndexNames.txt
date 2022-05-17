@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Hrc Test\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2976036618.index
+2823700075.index
+4119241518.index
+938542913.index
+69171936.index
+396663016.index
